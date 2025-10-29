@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(135deg, #6a5acd 0%, #483d8b 100%); 
+    background: #2A7B9B;
+    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(140, 69, 69, 1) 50%, rgba(92, 84, 0, 1) 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
